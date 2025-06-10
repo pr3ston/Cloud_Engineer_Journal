@@ -4,6 +4,7 @@
 	- 1:52:26 on the Youtube course (innovation Waves)
 - Time Studying - 30min
 	- 2:22 on the Youtube course (Fault Tolerance)
+	- test
 
 
 ## Resources
