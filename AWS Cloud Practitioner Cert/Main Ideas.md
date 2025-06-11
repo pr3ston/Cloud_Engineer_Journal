@@ -1,0 +1,68 @@
+- Fault Tolerance
+	- Fault Domains - Used to prevent 1 failure from spreading to another Area (Server rack, AZ, Region, etc)
+	- Fault Level - Collection of Fault Domains
+- AWS Global Network
+	- Used to describe the AWS private network backbone
+- Point of Presence (POP)
+	- The immediate area between the End User and the AWS region
+	- Owned by AWS or trusted partner
+	- Edge Locations - DCs that have a cache of the most popular files
+	- Regional Edge Locations - have larger 
+- Tier 1
+	- A network that can access the internet without any needed steps
+- AWS POP
+	- Services that use POP
+		- Cloudfront - Pushes files to be cached at edge locations
+		- S3 Transfer Accelerator - Generates special URL used to upload files faster over AWS network
+		- Global Accelerator - Allows faster traffic to services using AWS network
+- AWS Direct
+	- A direct connection that connects DCs, offices, co-location and AWS
+	- Uses Direct Locations
+	- Low latency, high bandwidth, lower network costs
+	- Not encrypted
+- Direct Locations
+	- A DC from AWS or trusted party that connects you to AWS
+- Local Zones
+	- DCs in a dense populated area to provide low latency to highly demanding applications
+	- Think Hollywood with media
+	- limited services
+- Wavelength Zones
+	- Using cellular connections to host VMs
+- Data Residency
+	- Where Data resides
+	- Compliance - Defines where data is able to be stored
+	- Sovereignty - Who asserts legal authority over the data
+	- AWS Outposts
+	- AWS Config - Policy as code
+	- IAM policies
+- GovCloud
+	- Private cloud for the government
+- AWS China
+	- Private cloud for China; Have their own website and everything
+- Sustainability
+- -----------------------
+- Ground Station
+	- Service that allows you to schedule time to connect to satelites
+- Outposts
+	- AWS gives you hardware to host that contains AWS software
+	- Plug and play
+- Cloud Architecture Terminology
+- High Availability
+	- The ability to remain available; Using multiple AZs for example 
+	- Elastic Load Balancer
+- Scalability
+	- The ability to increase capacity when demand increases
+	- Vertical scalability - Upgrading servers
+	- Horizonal scalability - Adding more servers
+- Elasticity
+	- The ability to automatically increase or decrease capacity
+	- Take away underutilized servers or add more if needed
+	- ASGs - Automatic Scaling Groups
+		- Used with horizontal scalability
+- Fault Tolerance
+	- systems ability to continue operating even if components fail
+	- AWS multi-AZ
+- Durability
+	- The ability to prevent the loss of data and restore services
+	- CloudEndure
+- Business Continuity Plan
