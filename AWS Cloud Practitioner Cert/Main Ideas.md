@@ -61,8 +61,12 @@
 		- Used with horizontal scalability
 - Fault Tolerance
 	- systems ability to continue operating even if components fail
-	- AWS multi-AZ
+	- Using fail-overs (Redundant systems)
+	- RDS multi-AZ
 - Durability
 	- The ability to prevent the loss of data and restore services
 	- CloudEndure
 - Business Continuity Plan
+	- Dictates how a company is going to move forward after a disaster
+	- RTO (Recovery Time Objective) - Max amount of acceptable downtime
+	- RPO (Recovery Point Objective) - Max amount of acceptable data loss 
