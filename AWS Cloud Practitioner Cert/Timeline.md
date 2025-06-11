@@ -33,7 +33,7 @@
 	- -----------------------
 - Time Studied - 50min
 	- 2:56:47 on Youtube
-- 
+- test
 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification website
