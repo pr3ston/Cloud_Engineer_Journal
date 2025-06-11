@@ -5,6 +5,35 @@
 - Time Studying - 30min
 	- 2:22 on the Youtube course (Fault Tolerance)
 
+6/11/25
+- Continued watching the Youtube video and covered the following topics:
+	- Fault Tolerance
+	- AWS Global Network
+	- Point of Presence (POP)
+	- Tier 1
+	- AWS POP
+	- AWS Direct
+	- Direct Locations
+	- Local Zones
+	- Wavelength Zones
+	- Data Residency
+	- GovCloud
+	- AWS China
+	- Sustainability
+	- -----------------------
+	- Ground Station
+	- Outposts
+	- Cloud Architecture Terminology
+	- High Availability
+	- Scalability
+	- Elasticity
+	- Fault Tolerance
+	- Durability
+	- Business Continuity Plan
+	- -----------------------
+- Time Studied - 50min
+	- 2:56:47 on Youtube
+- 
 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification website
