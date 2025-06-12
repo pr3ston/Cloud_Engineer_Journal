@@ -34,7 +34,7 @@
 - Time Studied - 50min
 	- 2:56:47 on Youtube
 - Time Studied - 1hr
-	- Studied the main services on A
+	- Studied the main services on AWS
 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification website
