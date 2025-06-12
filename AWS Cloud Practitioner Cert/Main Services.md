@@ -20,8 +20,16 @@ EC2
 	- Firewall Rules; Security groups
 
 S3 (Simple Storage Service)
+- Inexpensive object storage
+	- files
+- Unlimited storage capacity
+- Organized into buckets (groups)
+- Use Cases
+	- Hosting static website
+	- Data Storage
 
 VPC
+- 
 
 ELB
 
