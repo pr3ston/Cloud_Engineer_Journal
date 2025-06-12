@@ -28,10 +28,11 @@ S3 (Simple Storage Service)
 	- Hosting static website
 	- Data Storage
 
-VPC
-- 
+VPC (Virtual Private Cloud)
+- Personal isolated section in the cloud
 
-ELB
+ELB (Elastic Load Balancer)
+- 
 
 Lambda
 
