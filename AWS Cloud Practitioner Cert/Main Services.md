@@ -19,7 +19,7 @@ EC2
 	- Network
 	- Firewall Rules; Security groups
 
-S3
+S3 (Simple Storage Service)
 
 VPC
 
