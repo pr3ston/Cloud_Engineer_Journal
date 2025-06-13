@@ -39,6 +39,9 @@ ELB (Elastic Load Balancer)
 - 
 
 Lambda
+- Used for serverless compute
+- Don't have to worry about spinning up server, automatically does this when function is running
+- Pay based on calls and runtime
 
 CloudFront
 - Used to cache web content to edge locations around the world
