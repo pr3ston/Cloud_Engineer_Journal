@@ -23,6 +23,7 @@ EC2
 S3 (Simple Storage Service)
 - Inexpensive object storage
 	- files
+		- images, videos, documents, website code
 - Unlimited storage capacity
 - Organized into buckets (groups)
 - Use Cases
@@ -60,18 +61,34 @@ ECS (Elastic Container Service
 	- Don't have to manage infrastructure
 	- able to customize environment
 
-RDS
+RDS (Relational Database Service)
+- automatically handles backups, security patches, scaling, smooth operation
 
 DynamoDB
+- Built for speed and scale
+- Handle a lot of data with low latency
 
 Aurora
 
 Redshift
 
-IAM
+IAM (Identity and Access Management)
+- Ensures that every component only has the access that they need
+	- no more, no less
 
 CloudTrail
+- Used for auditing
+- records every single API call made in AWS account
+- Any change is logged
+	- what changed, when it was changed, who changed it
+- 
 
 GuardDuty
 
 CloudWatch
+- Primary AWS Monitoring and Observability Service
+- Gathers performance metrics, logs, events, from your services
+- create dashboards and alerts
+- Can trigger automated responses
+	- Heavy load -> scaling
+	- service failure -> recovery

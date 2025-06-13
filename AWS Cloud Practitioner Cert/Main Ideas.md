@@ -83,6 +83,8 @@
 	- Like a web firewall for EC2
 	- Can be as restricted as needed
 	- Can only allow traffic
+	- Individual resource levelif a 
 - Network ACLs
 	- Control traffic for entire sections of network (subnets)
 	- Explicitly block traffic you don't want
+	- Firewall for the entire subnet
