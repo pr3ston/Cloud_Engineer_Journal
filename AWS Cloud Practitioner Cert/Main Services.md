@@ -31,12 +31,17 @@ S3 (Simple Storage Service)
 VPC (Virtual Private Cloud)
 - Personal isolated section in the cloud
 
+Route 53 (DNS)
+- Operates as a DNS
+- 
+
 ELB (Elastic Load Balancer)
 - 
 
 Lambda
 
 CloudFront
+- Used to cache web content to edge locations around the world
 
 RDS
 

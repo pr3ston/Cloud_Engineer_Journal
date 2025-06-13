@@ -70,3 +70,19 @@
 	- Dictates how a company is going to move forward after a disaster
 	- RTO (Recovery Time Objective) - Max amount of acceptable downtime
 	- RPO (Recovery Point Objective) - Max amount of acceptable data loss 
+
+- -------------
+- VPC
+	- Contains Public and Private Subnets
+	- Public talks to the internet via `Internet Gateway`
+	- Private only remains in the VPC
+		- Internal resources can access internet via `NAT Gateway`
+- Security Groups
+	- Control traffic for individual resources, like EC2 servers
+	- Specify exact traffic that should reach server
+	- Like a web firewall for EC2
+	- Can be as restricted as needed
+	- Can only allow traffic
+- Network ACLs
+	- Control traffic for entire sections of network (subnets)
+	- Explicitly block traffic you don't want

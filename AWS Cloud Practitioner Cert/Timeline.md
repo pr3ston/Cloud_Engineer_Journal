@@ -39,6 +39,7 @@
 6/13/25
 - I started to watch a new Youtube video that explains the main services that AWS has to offer, as well as why to use them. Topics covered:
 	- AWS networking
+	- Route 53
 	- 
 - Time Studied - 
 	- 12:30pm - 
@@ -46,6 +47,7 @@
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification website
 - AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam | freeCodeCamp.org via Youtube
+- AWS Cloud Engineer Full Course for Beginners | Tech With Soleyman via Youtube
 
 
 Tell me about yourself
