@@ -41,8 +41,10 @@
 	- AWS networking
 	- Route 53
 	- 
+- Time Studied - 30min
+	- 12:30pm - 1pm
 - Time Studied - 
-	- 12:30pm - 
+	- 2:20pm - 
 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification website

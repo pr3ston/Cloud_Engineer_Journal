@@ -2,6 +2,7 @@ EC2
 - Elastic Compute Cloud
 - Combination of processor and ram
 - IaaS
+- Can use any software version you need
 - Use Cases
 	- hosting apps/websites
 	- Dev/test environments
@@ -50,6 +51,14 @@ API Gateway
 CloudFront
 - Used to cache web content to edge locations around the world
 
+ECS (Elastic Container Service
+- automatically starts, stops, containers
+- checks containers if running properly
+- Automatically replace any that fail
+- Can automatically create more containers to handle increased load
+- Mix between Lambda and EC2
+	- Don't have to manage infrastructure
+	- able to customize environment
 
 RDS
 
