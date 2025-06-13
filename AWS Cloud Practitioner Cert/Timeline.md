@@ -36,9 +36,17 @@
 - Time Studied - 1hr
 	- Studied the main services on AWS
 
+6/13/25
+- I started to watch a new Youtube video that explains the main services that AWS has to offer, as well as why to use them. Topics covered:
+	- AWS networking
+	- 
+- Time Studied - 
+	- 12:30pm - 
+
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification website
 - AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam | freeCodeCamp.org via Youtube
+
 
 Tell me about yourself
 I am currently a senior at BYU studying cybersecurity. I have a passion for cloud security-I am currently working towards an AWS certification, and am planning on completing a couple of personal cloud projects within the next couple months. I also love tinkering with computers and learning new technologies. I am very interested in cybersecurity because it is an evolving field, thus I get to learn something new everyday. I am from Hawaii, and my family moved to Vegas around 6 years ago. 
@@ -49,3 +57,5 @@ My family moved from Hawaii to Vegas, and so we had to start completely from scr
 When you are talking about cybersecurity, talk about how it will help to keep company trust, protect company reputation, save money, etc. (**Business POV**)
 
 Go into as much detail as you can
+
+
