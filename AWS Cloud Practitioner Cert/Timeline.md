@@ -151,6 +151,7 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
 - AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam | freeCodeCamp.org via Youtube
 - AWS Cloud Engineer Full Course for Beginners | Tech With Soleyman via Youtube
+- What is Kubernetes | Kubernetes explained in 15 mins | TechWorld with Nana via Youtube
 
 
 
