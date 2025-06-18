@@ -7,7 +7,7 @@ I will be following the road-map as specified below:
 2. Work on Cloud Projects
 	1. Cloud Resume Challenge
 	2. Practice using the main AWS services
-3. AWS SYSOPS Administrator Cert - During Summer
-4. AWS Solutions Architect Associate Cert - During Fall Semester
-5. AWS Security Specialization Cert 
+3. AWS Solutions Architect Associate Cert - During Summer and Fall Semester
+4. AWS Security Specialization Cert 
+5. AWS SYSOPS Administrator Cert
 6. Azure Certs
