@@ -52,14 +52,5 @@
 - AWS Cloud Engineer Full Course for Beginners | Tech With Soleyman via Youtube
 
 
-Tell me about yourself
-I am currently a senior at BYU studying cybersecurity. I have a passion for cloud security-I am currently working towards an AWS certification, and am planning on completing a couple of personal cloud projects within the next couple months. I also love tinkering with computers and learning new technologies. I am very interested in cybersecurity because it is an evolving field, thus I get to learn something new everyday. I am from Hawaii, and my family moved to Vegas around 6 years ago. 
-
-Why should we pick you:
-My family moved from Hawaii to Vegas, and so we had to start completely from scratch. We had to work hard for everything, and so that stuck with me and I incorporate that into everything that I do-my school work, my job, providing for my fiance and I. I am reliable, people rely on me, my professors, my current manager, classmates. I am passionate about security and learning. Since security is an evolving field, I always have to stay up to date, learning new things everyday. I love what the company is about, starting from helping the founder's father and eventually helping and looking out for other companies grow and succeed. That is something that I love as service and helping others are important to me. Thus, being able to incorporate that value into my work would bring me a lot of satisfication with what I do. Podium is also a growing company, which is something that I want to be part of and am passionate about helping. I promise that if you give me a shot, you won't be disappointed
-
-When you are talking about cybersecurity, talk about how it will help to keep company trust, protect company reputation, save money, etc. (**Business POV**)
-
-Go into as much detail as you can
 
 

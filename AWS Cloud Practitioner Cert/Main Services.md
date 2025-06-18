@@ -81,7 +81,6 @@ CloudTrail
 - records every single API call made in AWS account
 - Any change is logged
 	- what changed, when it was changed, who changed it
-- 
 
 GuardDuty
 
