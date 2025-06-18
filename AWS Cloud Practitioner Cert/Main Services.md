@@ -30,6 +30,10 @@ S3 (Simple Storage Service)
 	- Hosting static website
 	- Data Storage
 
+- Used to store any type of data, and retrieve any amount of data from anywhere
+- Object - Any type of file, and any metadata for a file
+- Buckets - Used to store objects
+
 VPC (Virtual Private Cloud)
 - Personal isolated section in the cloud
 
