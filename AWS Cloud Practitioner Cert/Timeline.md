@@ -131,8 +131,12 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 		- Docker
 		- IaC
 		- GitHub Actions (CI/CD pipeline)
+- Today I will be starting to study using the AWS skill builder website. I will first start with the free modules in preparation for the Cloud Practitioner Cert. If needed, I'll then pay for the individual subscription.
+- Time Studied - 
+	- 
 ## Resources
-- AWS Cloud Practitioner Essentials | AWS Training and Certification website
+- AWS Cloud Practitioner Essentials | AWS Training and Certification Website
+- AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
 - AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam | freeCodeCamp.org via Youtube
 - AWS Cloud Engineer Full Course for Beginners | Tech With Soleyman via Youtube
 
