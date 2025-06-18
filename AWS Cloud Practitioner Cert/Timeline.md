@@ -43,8 +43,21 @@
 	- 
 - Time Studied - 30min
 	- 12:30pm - 1pm
-- Time Studied - 
-	- 2:20pm - 
+- Time Studied - 2hr 40min
+	- 2:20pm - 5pm
+
+6/17/25
+- It's been a while since I last studied but that's because I was preparing for an interview. The interview was for an internship at a local startup. The Sr. Security Engineer that I interviewed with also had a strong interest in the Cloud while also having 12 years of experience. In fact, he mentioned how he was the Sr. Cloud Architect at the startup. However, he still mentioned that he's more of a well-rounded security professional as in the job he is constantly working with other teams and on other projects besides the cloud. For example, he mentioned that he worked a lot with the SOC for incident response and also worked with the AppSec team for securing code. Overall, I think the interview went well and that we really clicked on the interest in cloud. The interview ended early, and I was able to ask him questions regarding the cloud. Highlights of what he mentioned
+	- Cloud Engineers work a lot with devops. It is important to learn the following things:
+		- Kubernetes
+		- EKS
+		- Containers (Docker)
+		- Terraform (IaC)
+	- It is good to get some certs, though he doesn't really believe in certs himself. Recommended that I continue to pursue the Cloud Practitioner cert. 
+	- He mentioned the power of getting hands-on experience through projects. 
+		- Also mentioned that it would be good to utilize the AWS online training/labs
+
+
 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification website
