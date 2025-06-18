@@ -132,10 +132,11 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 		- IaC
 		- GitHub Actions (CI/CD pipeline)
 - Today I will be starting to study using the AWS skill builder website. I will first start with the free modules in preparation for the Cloud Practitioner Cert. If needed, I'll then pay for the individual subscription. Today I'll be going through the AWS Cloud Quest: Cloud Practitioner module.
-- Time Studied - 6.5hrs
+- Time Studied - 6.5hrsssss
 	- 9:30am - 4pm
 	- Topics covered:
 		- EC2
+			- EBS (Elastic Block Store) - Storage for EC2
 		- S3
 		- Networking
 		- RDB
