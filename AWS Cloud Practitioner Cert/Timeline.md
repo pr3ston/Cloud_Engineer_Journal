@@ -147,6 +147,14 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- 4pm - 4:30pm
 	- Topics covered:
 		- Kubernetes
+
+6/21/25
+- It's been a couple of days since I last studied, but today I have continued to study for the cert through the Youtube video same as before. I have also set up a computer with Ubuntu Desktop in preparation for using it as a Kubernetes node. Man that was such a pain. But I eventually got it. I have a lot of free time this upcoming week so I hope to be able to commit a lot of hours towards studying for the cert and at least be 90% done with the Youtube video and all of the content. Here is a list of all of my goals:
+	- Watch 90% of the Youtube video by
+ 	 	- Suppliment with the AWS training
+		- Will finish by 6/25 if watched about 3hrs/day for next 4 days
+	- Start learning the basics of docker/containerization
+
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
