@@ -155,6 +155,20 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 		- Will finish by 6/25 if watched about 3hrs/day for next 4 days
 	- Start learning the basics of docker/containerization
 
+6/23/25
+- Today I am continuing to study for the Cloud Practitioner exam via the Youtube video. I plan to go through at least 3 hours worth of video content.
+- Topics Covered:
+	- Disaster Recovery
+	- AWS API
+	- AWS Management Console
+	- AWS CLI
+	- ARN
+	- Account ID
+	- AWS SDK
+	- AWS Cloudshell
+	- 
+- Time studied - 
+	- 9:30am  - 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
