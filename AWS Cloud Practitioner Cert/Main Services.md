@@ -1,4 +1,4 @@
-EC2
+#### EC2
 - Elastic Compute Cloud
 - Combination of processor and ram
 - IaaS
@@ -20,7 +20,7 @@ EC2
 	- Network
 	- Firewall Rules; Security groups
 
-S3 (Simple Storage Service)
+#### S3 (Simple Storage Service)
 - Inexpensive object storage
 	- files
 		- images, videos, documents, website code
@@ -34,29 +34,29 @@ S3 (Simple Storage Service)
 - Object - Any type of file, and any metadata for a file
 - Buckets - Used to store objects
 
-VPC (Virtual Private Cloud)
+#### VPC (Virtual Private Cloud)
 - Personal isolated section in the cloud
 
-Route 53 (DNS)
+#### Route 53 (DNS)
 - Operates as a DNS
 - 
 
-ELB (Elastic Load Balancer)
+#### ELB (Elastic Load Balancer)
 - 
 
-Lambda
+#### Lambda
 - Used for serverless compute
 - Don't have to worry about spinning up server, automatically does this when function is running
 - Pay based on calls and runtime
 - Used with API gateway for websites
 
-API Gateway
+#### API Gateway
 - Used to direct traffic and activate the correct lambda functions for websites
 
-CloudFront
+#### CloudFront
 - Used to cache web content to edge locations around the world
 
-ECS (Elastic Container Service
+#### ECS (Elastic Container Service
 - automatically starts, stops, containers
 - checks containers if running properly
 - Automatically replace any that fail
@@ -65,30 +65,30 @@ ECS (Elastic Container Service
 	- Don't have to manage infrastructure
 	- able to customize environment
 
-RDS (Relational Database Service)
+#### RDS (Relational Database Service)
 - automatically handles backups, security patches, scaling, smooth operation
 
-DynamoDB
+#### DynamoDB
 - Built for speed and scale
 - Handle a lot of data with low latency
 
-Aurora
+#### Aurora
 
-Redshift
+#### Redshift
 
-IAM (Identity and Access Management)
+##### IAM (Identity and Access Management)
 - Ensures that every component only has the access that they need
 	- no more, no less
 
-CloudTrail
+#### CloudTrail
 - Used for auditing
 - records every single API call made in AWS account
 - Any change is logged
 	- what changed, when it was changed, who changed it
 
-GuardDuty
+#### GuardDuty
 
-CloudWatch
+#### CloudWatch
 - Primary AWS Monitoring and Observability Service
 - Gathers performance metrics, logs, events, from your services
 - create dashboards and alerts
