@@ -1,12 +1,12 @@
 ## Activity Timeline
-6/9/25
+#### 6/9/25
 - Today I have started my journey towards completing the AWS Cloud Practitioner Cert. I have signed up for the free `AWS Cloud Practitioner Essentials` course on the `AWS Skill Builder` website. I have also started to watch the `AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam` video on Youtube by `freeCodeCamp.org`.
 - Time Studying - 2hrs
 	- 1:52:26 on the Youtube course (innovation Waves)
 - Time Studying - 30min
 	- 2:22 on the Youtube course (Fault Tolerance)
 
-6/11/25
+#### 6/11/25
 - Continued watching the Youtube video and covered the following topics:
 	- Fault Tolerance
 	- AWS Global Network
@@ -37,7 +37,7 @@
 - Time Studied - 1hr
 	- Studied the main services on AWS
 
-6/13/25
+#### 6/13/25
 - I started to watch a new Youtube video that explains the main services that AWS has to offer, as well as why to use them. Topics covered:
 	- AWS networking
 	- Route 53
@@ -47,7 +47,7 @@
 - Time Studied - 2hr 40min
 	- 2:20pm - 5pm
 
-6/17/25
+#### 6/17/25
 - It's been a while since I last studied but that's because I was preparing for an interview. The interview was for an internship at a local startup. The Sr. Security Engineer that I interviewed with also had a strong interest in the Cloud while also having 12 years of experience. In fact, he mentioned how he was the Sr. Cloud Architect at the startup. However, he still mentioned that he's more of a well-rounded security professional as in the job he is constantly working with other teams and on other projects besides the cloud. For example, he mentioned that he worked a lot with the SOC for incident response and also worked with the AppSec team for securing code. Overall, I think the interview went well and that we really clicked on the interest in cloud. The interview ended early, and I was able to ask him questions regarding the cloud. Highlights of what he mentioned
 	- Cloud Engineers work a lot with devops. It is important to learn the following things:
 		- Kubernetes
@@ -58,7 +58,7 @@
 	- He mentioned the power of getting hands-on experience through projects. 
 		- Also mentioned that it would be good to utilize the AWS online training/labs
 
-6/18/25
+#### 6/18/25
 - Today I received a message on LinkedIn from a classmate of mines who is also going into the Cloud industry.
 
 This was his message;
@@ -148,14 +148,14 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- Topics covered:
 		- Kubernetes
 
-6/21/25
+#### 6/21/25
 - It's been a couple of days since I last studied, but today I have continued to study for the cert through the Youtube video same as before. I have also set up a computer with Ubuntu Desktop in preparation for using it as a Kubernetes node. Man that was such a pain. But I eventually got it. I have a lot of free time this upcoming week so I hope to be able to commit a lot of hours towards studying for the cert and at least be 90% done with the Youtube video and all of the content. Here is a list of all of my goals:
 	- Watch 90% of the Youtube video by
  	 	- Suppliment with the AWS training
 		- Will finish by 6/25 if watched about 3hrs/day for next 4 days
 	- Start learning the basics of docker/containerization
 
-6/23/25
+#### 6/23/25
 - Today I am continuing to study for the Cloud Practitioner exam via the Youtube video. I plan to go through at least 3 hours worth of video content.
 - Topics Covered:
 	- Disaster Recovery
@@ -170,7 +170,7 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 - Time studied - 1.5hrs
 	- 9:30am  - 12pm
 		- 4:13:31 on Youtube Video
-- 
+	- 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
