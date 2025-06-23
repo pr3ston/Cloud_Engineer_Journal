@@ -168,7 +168,7 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- AWS Cloudshell
 	- 
 - Time studied - 
-	- 9:30am  - 
+	- 9:30am  - testing
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
