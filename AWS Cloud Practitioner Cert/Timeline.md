@@ -41,7 +41,6 @@
 - I started to watch a new Youtube video that explains the main services that AWS has to offer, as well as why to use them. Topics covered:
 	- AWS networking
 	- Route 53
-	- 
 - Time Studied - 30min
 	- 12:30pm - 1pm
 - Time Studied - 2hr 40min

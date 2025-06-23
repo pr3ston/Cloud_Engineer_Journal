@@ -49,8 +49,7 @@
               "title": "Main Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +197,10 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "8116a24d930527cd",
+  "active": "071cf36d03cd8207",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner Cert/Main Ideas.md",
     "AWS Cloud Practitioner Cert/Main Services.md",
+    "AWS Cloud Practitioner Cert/Main Ideas.md",
     "AWS Cloud Practitioner Cert/Timeline.md",
     "README.md",
     "Interview Prep.md",
