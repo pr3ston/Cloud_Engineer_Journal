@@ -165,11 +165,12 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- Account ID
 	- AWS SDK
 	- AWS Cloudshell
+	- -----------------
 	- IaC
 - Time studied - 1.5hrs
 	- 9:30am  - 12pm
 		- 4:13:31 on Youtube Video
-	- 
+	- 3pm - 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
