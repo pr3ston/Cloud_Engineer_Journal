@@ -167,10 +167,14 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- AWS Cloudshell
 	- -----------------
 	- IaC
-- Time studied - 1.5hrs
+	- CloudFormation
+	- CDK
+	- 
+- Time studied - 2hrs
 	- 9:30am  - 12pm
 		- 4:13:31 on Youtube Video
-	- 3pm - 
+	- 3pm - 3:30pm
+		- 4:41:39 on Youtube Video
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
