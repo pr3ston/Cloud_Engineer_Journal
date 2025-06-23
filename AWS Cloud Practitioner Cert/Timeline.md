@@ -169,7 +169,6 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- IaC
 	- CloudFormation
 	- CDK
-	- 
 - Time studied - 2hrs
 	- 9:30am  - 12pm
 		- 4:13:31 on Youtube Video
