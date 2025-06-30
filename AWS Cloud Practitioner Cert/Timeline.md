@@ -174,6 +174,19 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 		- 4:13:31 on Youtube Video
 	- 3pm - 3:30pm
 		- 4:41:39 on Youtube Video
+
+#### 6/30/25
+- Continued to study for the CP exam. I have switched to the `AWS Cloud Practitioner Essentials` course on the AWS website. Topics I covered:
+	- What is the cloud
+	- Cloud Shared Responsibilities
+	- EC2
+		- Instance types
+		- Pricing
+		- Scaling
+		- Load Balancing
+		- Messaging and Queuing
+- Time Studied - 1.5
+	- 11:45am - 1:15am (1.5 hrs)
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
