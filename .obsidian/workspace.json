@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,12 +212,12 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "8116a24d930527cd",
+  "active": "68fc771a479ea9c8",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner Cert/Timeline.md",
     "AWS Cloud Practitioner Cert/Main Services.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Compute.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials",
-    "AWS Cloud Practitioner Cert/Timeline.md",
     "AWS Cloud Practitioner Cert/Main Ideas.md",
     "README.md",
     "Interview Prep.md",
