@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/EC2 Compute.md",
+                "file": "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/More Compute Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 Compute"
+              "title": "More Compute Services"
             }
           },
           {
@@ -214,8 +214,8 @@
   },
   "active": "68fc771a479ea9c8",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner Cert/Timeline.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/EC2 Compute.md",
+    "AWS Cloud Practitioner Cert/Timeline.md",
     "Pasted image 20250630155618.png",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/More Compute Services.md",
     "AWS Cloud Practitioner Cert/Main Ideas.md",
