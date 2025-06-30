@@ -19,6 +19,7 @@
 	- Storage
 	- Network
 	- Firewall Rules; Security groups
+- 
 
 #### S3 (Simple Storage Service)
 - Inexpensive object storage
