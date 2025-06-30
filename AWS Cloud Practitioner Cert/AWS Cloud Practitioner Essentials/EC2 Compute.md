@@ -73,4 +73,3 @@
 - AWS EventBridge
 	- Connects different parts of an application using events
 	- You route events from sources (custom apps, AWS services, etc) to other apps
-	- 
