@@ -32,3 +32,5 @@
 - Dedicated Instances
 	- Hardware dedicated solely to your account
 	- Single isolated section on server
+
+## Scaling
