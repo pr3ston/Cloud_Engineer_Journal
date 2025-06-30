@@ -193,7 +193,7 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 		- Fargate
 		- ECR
 - Time Studied - 4hrs
-	- 11:45am - 1:15am (1.5 hrs)
+	- 11:45am - 1:15am (1.5hrs)
 	- 2:30pm - 5pm (2.5hrs)
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
