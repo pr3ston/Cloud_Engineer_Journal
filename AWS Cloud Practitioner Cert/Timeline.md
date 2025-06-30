@@ -185,9 +185,9 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 		- Scaling
 		- Load Balancing
 		- Messaging and Queuing
-- Time Studied - 1.5hrs
+- Time Studied - 4hrs
 	- 11:45am - 1:15am (1.5 hrs)
-	- 2:40pm - 
+	- 2:30pm - 5pm (2.5hrs)
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
