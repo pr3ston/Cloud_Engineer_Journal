@@ -37,4 +37,11 @@
 	- Only need to manage containers
 
 ## Additional Compute Services
-- 
+
+#### Elastic Beanstalk
+
+#### AWS Batch
+
+#### Amazon Lightsail
+
+#### AWS Outposts
