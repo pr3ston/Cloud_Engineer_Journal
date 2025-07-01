@@ -39,9 +39,26 @@
 ## Additional Compute Services
 
 #### Elastic Beanstalk
+- Fully Managed service
+- Streamlines deployment, management, scaling of web apps
+- Upload code -> beanstalk handles provisioning of infrastructure, scaling, load balancing, app health monitoring
+- Supports various programming languages and frameworks
+- Good for
+	- APIs, mobile backend, web apps, microservices
 
 #### AWS Batch
+- Fully managed
+- Used to run batch computing workloads
+- Automatically schedules, manages, scales compute resources for batch jobs
+- Good for:
+	- processing large-scale, parallel workloads for scientific computing, risk analysis, media transcoding, big data processing, machine learning, genomic research
 
 #### Amazon Lightsail
+- Offers Virtual Private Servers (VPS), storage, databases, networking
+- Ideal for small businesses, basic workloads, developers seeking straightforward AWS expereince without complexity of full AWS management console 
+- Good for:
+	- Basic web apps, low-traffic websites, dev and testing envs, blogs, learning cloud services
 
 #### AWS Outposts
+- AWS gives you a server that has the AWS software on it
+- You host the server on-prem, but are still able to use AWS
