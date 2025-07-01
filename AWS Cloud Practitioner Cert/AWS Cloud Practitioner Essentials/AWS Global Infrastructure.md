@@ -14,6 +14,9 @@ Factors
 - Define infrastructure in a file
 - Automate deployment
 - Maintain consistency among different regions/edge locations
+- Define AWS resources in a declarative way
+	- Use templates
+- 
 
 ## Multi-AZ/Multi-Region
 - High availability - operate without failing
@@ -29,3 +32,14 @@ Factors
 
 ## Route 53
 - AWS version of DNS
+
+## Interacting with AWS Resources
+- Programmatic Access
+	- AWS SDK
+	- AWS CLI
+	- 
+- AWS Management Console
+- IaC
+	- CloudFormation
+	- Managing CI/CD pipelines
+	- Scaling Resources

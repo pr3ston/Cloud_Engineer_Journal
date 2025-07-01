@@ -199,8 +199,16 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 #### 7/1/25
 - It is a new month and I am about a third of the way done with the `AWS Cloud Practitioner Essentials` course. Today I plan on going through another 4 or 5 modules at least. Overall, I think that this course gives a foundation for what the exam would cover but not in that much detail. Because I am not sure, I will take a couple of practice tests after this, and if my knowledge isn't where it needs to be at, then I will continue with another source. Topics covered:
 	- AWS Global Infrastructure
+		- Connection types
+	- Networking
+		- NACLs
+		- Security Groups
+		- VPCs
+		- Subnets
+	- ------------------
 - Time studied - 
-	- 10:30am - 
+	- 10:30am - 2pm (3.5hrs)
+	- 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
