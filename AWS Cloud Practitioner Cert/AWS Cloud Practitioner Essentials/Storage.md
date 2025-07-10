@@ -19,6 +19,8 @@
 - Full rewrite rewrite requited to update and object
 - Organized using buckets
 - Best for large or infrequently changed files
+- unlimited scalability
+- 
 
 #### S3
 - Fully managed scalable object storage service for storing and retrieving any amount of data from anywhere
