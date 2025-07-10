@@ -9,6 +9,7 @@
 #### EC2 Instance Store
 - Unmanaged
 - high-performance block storage directly attached to EC2 instance for temp data
+- No data-persistence
 
 #### Elastic Block Store (EBS)
 - Managed service
