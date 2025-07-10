@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,11 +240,11 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "8116a24d930527cd",
+  "active": "3b8fdfac8a7b50b6",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner Cert/Timeline.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Compute/More Compute Services.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Storage.md",
-    "AWS Cloud Practitioner Cert/Timeline.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Networking.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/AWS Global Infrastructure.md",
     "AWS Cloud Practitioner Cert/Main Ideas.md",
