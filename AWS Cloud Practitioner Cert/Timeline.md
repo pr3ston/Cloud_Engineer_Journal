@@ -214,7 +214,9 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- Storage
 		- Block store
 		- Object store
-		- File sto
+		- File store
+- Time Studied - 
+	- 10:30am - 
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
