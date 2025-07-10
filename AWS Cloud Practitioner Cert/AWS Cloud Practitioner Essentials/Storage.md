@@ -138,9 +138,7 @@ Archive Classes
 - 50% lower costs
 
 ###### EFS Data Lifecycle
-- 
-
-
+- Create lifecycle policies that determine when and how files are transitioned
 #### FSx
 - Fully managed
 - File storage services for popular file systems like windows, lustre, netapp ontap
@@ -151,6 +149,10 @@ Archive Classes
 - fully managed
 - Hybrid-cloud storage service
 - Provides on-prem access to virtually unlimited cloud storage
+- 3 types
+	- S3 File Gateway
+	- Volume Gateway
+	- Tape Gateway
 
 #### Elastic Disaster Recovery
 - Fully managed
