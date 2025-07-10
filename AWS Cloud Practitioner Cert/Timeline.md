@@ -208,7 +208,13 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- ------------------
 - Time studied - 
 	- 10:30am - 2pm (3.5hrs)
-	- 
+
+#### 7/10/25
+- Continued the `Cloud Practitioner Essentials` course. Topics covered:
+	- Storage
+		- Block store
+		- Object store
+		- File sto
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
