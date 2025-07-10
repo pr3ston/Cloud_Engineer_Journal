@@ -152,9 +152,18 @@ Archive Classes
 - 3 types
 	- S3 File Gateway
 	- Volume Gateway
+		- Creates Block-Storage volumes locally
+		- Can be mounted to existing apps
+		- Cached mode - stores primary data in cloud while frequently accessed data is cached locally for low-latency
+		- Stored mode - Keeps complete dataset locally while asynchronously backing it up to the cloud as EBS snapshots
 	- Tape Gateway
+		- Replace physical tape infra with virtual tape capabilities
+		- Provides an interface that works for existing take backup software
 
 #### Elastic Disaster Recovery
 - Fully managed
 - Streamlines recovery of physical, virtual, and cloud servers
+- Replicates critical workloads to AWS
+- Servers' block-level data is continuously replicated to AWS
+- Supports both physical and virtual servers
 
