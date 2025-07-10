@@ -48,4 +48,31 @@ Security:
 - Fully managed
 - Reduces complexity of administering in-memory caching systems
 - Automatically detects and replaces failed nodes
-- 
+
+## Other Services
+
+#### DocumentDB
+- Fully managed
+- Handle semistructured data
+	- information that doesn't conform to rigid relational schemas
+	- MondoDB compatible
+- For apps requiring frequent schema changes and document-oriented data
+- Quickly iterate without relying on predefined schemas
+- Uses JSON
+- Automatically scales
+- Up to 15 replicas
+
+#### AWS Backup
+- provides single dashboard for monitoring and managing backups
+- eliminates complexity of managing multiple backup strategies
+- Supports
+	- EBS
+	- EFS
+	- Others
+- Centralizes and automates data protection processes
+
+#### Neptune
+- fully managed
+- graph db
+- Understands complex relationships
+- auto scales
