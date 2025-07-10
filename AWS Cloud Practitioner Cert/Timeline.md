@@ -216,7 +216,6 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 		- Object store
 		- File store
 	- Databases
-		- 
 - Time Studied - 
 	- 10:30am - 
 ## Resources
