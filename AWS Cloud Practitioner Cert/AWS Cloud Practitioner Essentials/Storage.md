@@ -20,7 +20,6 @@
 - Organized using buckets
 - Best for large or infrequently changed files
 - unlimited scalability
-- 
 
 #### S3
 - Fully managed scalable object storage service for storing and retrieving any amount of data from anywhere
@@ -30,3 +29,12 @@
 - Straightforward implementation without code changes
 - Best for applications needing shared file access
 	- CMS for example
+- Accessible over networks so multiple users and apps can access the same data simutaneously
+
+#### Elastic File System (EFS)
+- Fully managed
+- NFS file system for use with AWS and on-prem resources
+
+#### FSx
+- Fully managed
+- File storage services for popular file systems like windows, lustre, netapp ontap
