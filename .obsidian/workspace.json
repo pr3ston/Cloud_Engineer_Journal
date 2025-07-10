@@ -145,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,7 +240,7 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "3b8fdfac8a7b50b6",
+  "active": "0ec63f3903caccc2",
   "lastOpenFiles": [
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Networking.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/AWS Global Infrastructure.md",

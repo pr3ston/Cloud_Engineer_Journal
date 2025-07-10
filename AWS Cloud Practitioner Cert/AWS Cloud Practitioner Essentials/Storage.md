@@ -13,6 +13,7 @@
 #### Elastic Block Store (EBS)
 - Managed service
 - Provided persistent block storage volumes for EC2 Instances
+- Price measured in Input/output per second (IOPs)
 
 ## Object Storage
 - Object = data + unique ID + metadata
@@ -38,3 +39,15 @@
 #### FSx
 - Fully managed
 - File storage services for popular file systems like windows, lustre, netapp ontap
+
+## Other Categories
+
+#### Storage Gateway
+- fully managed
+- Hybrid-cloud storage service
+- Provides on-prem access to virtually unlimited cloud storage
+
+#### Elastic Disaster Recovery
+- Fully managed
+- Streamlines recovery of physical, virtual, and cloud servers
+
