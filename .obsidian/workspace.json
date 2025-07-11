@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/ML and AI.md",
+                "file": "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/ML_AI and Data Analytics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML and AI"
+              "title": "ML_AI and Data Analytics"
             }
           },
           {
@@ -268,10 +268,10 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "9c298c81440a2f16",
+  "active": "0ec63f3903caccc2",
   "lastOpenFiles": [
     "AWS Cloud Practitioner Cert/Timeline.md",
-    "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/ML and AI.md",
+    "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/ML_AI and Data Analytics.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Databases.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Storage.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Compute/More Compute Services.md",

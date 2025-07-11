@@ -117,19 +117,26 @@ ML - Type of AI for training machines to perform complex tasks without explicit 
 	- AWS Data Firehose
 		- Ingest data in near real-time
 		- Batch, compress, encrypt data before loading
+		- Auto scaling
+- Storage
+	- S3 (Data Lake, flexible), 
+	- Redshift (Data Warehouse, more structured)
+- Catalog
 	- AWS Glue (Data Catalog Feature)
 		- Fully managed metadata repo
 		- Discover, catalog, manage data
 		- Automate data discovery
 		- Data governance, compliance support
+		- Enhances data discovery
+		- AWS Glue Data Catalog serves as a metadata repository with tables that describe the schema and location of the Amazon S3 data.
 - Transform
 	- Fully managed ETL service
 	- Create ETL jobs visually 
 	- Simple code-free data processing
-- Storage
-	- S3 (Data Lake, flexible), 
-	- Redshift (Data Warehouse, more structured)
 - Load/Process
+	- Glue
+		- Fully managed ETL service
+		- Makes data preparation simpler, faster, cost effective
 	- EMR
 		- Perform large-scale complex data processing with popular frameworks
 		- More control/flexibility
@@ -152,4 +159,4 @@ ML - Type of AI for training machines to perform complex tasks without explicit 
 		- For complex queries
 		- Find-grained query control
 		- Advanced features
-- 
+
