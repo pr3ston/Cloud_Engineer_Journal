@@ -65,3 +65,5 @@ ML - Type of AI for training machines to perform complex tasks without explicit 
 	- Supports PyTorch, Apache M-X Net, TensorFlow
 - AWS ML Infrastructure
 	- ML infra like ML EC2, EMR, ECS can support your custom solutions
+
+## Generative AI
