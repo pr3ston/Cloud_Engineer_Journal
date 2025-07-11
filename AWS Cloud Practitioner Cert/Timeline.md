@@ -216,8 +216,8 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 		- Object store
 		- File store
 	- Databases
-- Time Studied - 
-	- 10:30am - 
+- Time Studied - (6.5hrs)
+	- 10:30am - 5pm
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
