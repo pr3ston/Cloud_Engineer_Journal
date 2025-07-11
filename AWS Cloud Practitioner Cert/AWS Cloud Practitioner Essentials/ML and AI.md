@@ -66,4 +66,90 @@ ML - Type of AI for training machines to perform complex tasks without explicit 
 - AWS ML Infrastructure
 	- ML infra like ML EC2, EMR, ECS can support your custom solutions
 
+## Deep Learning
+- Subset of machine learning
+- Models are trained using layers of artificial neurons that mimic human brain
+- Each layer summarizes and feds info to next layer until final model produced
 ## Generative AI
+- Type of deep learning powered by extremely large ML models known as foundation models (FMs)
+- FMs are pretrained on vast collections of data
+- FMs can be adapted to perform multiple tasks
+	- create videos, images, music, etc
+- LLMs are type of FM trained to use human language
+
+#### Amazon SageMaker JumpStart
+- Select form pre-trained FMs and ML solutions
+- Fully customizable models for your use case and data
+- Quickly deploy
+- Library of pre-built ML solutions
+	- computer vision, NLP, tabular data
+
+#### Amazon Bedrock
+- Fully managed
+- Customize FMs from AWS and leading AI companies
+- Access FMs through single API
+
+#### Amazon Q
+- Generative AI assistant tailored for you
+
+###### Amazon Q Business
+- Can answer pressing questions, solve problems, take action using data and expertise fround in company information repos
+- For information requests, automated workflows, insight extraction
+
+###### Amazon Q Developer
+- Provides code recommendations
+	- C#, Java, JS, Python, TypeScript
+- Integrates with multiple IDEs
+
+## Data Analytics
+- When analysts transform raw historic data to uncover valuable insights/trends
+
+#### ETL Process
+- Extract data from various sources
+- Transform data into consistent usable format
+- Load data into destination system
+
+#### AWS Data Pipeline Services
+- Ingest
+	- AWS Kinesis
+		- Ingest data in real-time
+		- Deliver to multiple apps
+	- AWS Data Firehose
+		- Ingest data in near real-time
+		- Batch, compress, encrypt data before loading
+	- AWS Glue (Data Catalog Feature)
+		- Fully managed metadata repo
+		- Discover, catalog, manage data
+		- Automate data discovery
+		- Data governance, compliance support
+- Transform
+	- Fully managed ETL service
+	- Create ETL jobs visually 
+	- Simple code-free data processing
+- Storage
+	- S3 (Data Lake, flexible), 
+	- Redshift (Data Warehouse, more structured)
+- Load/Process
+	- EMR
+		- Perform large-scale complex data processing with popular frameworks
+		- More control/flexibility
+- Visualization
+	- Quicksight
+		- Interactive business intelligence dashboards and reports
+		- Highly scalable
+		- For technical and non-technical users
+		- Can be used with Amazon Q
+	- OpenSearch Service
+		- Real-time search, monitoring, analysis of business/operational data
+		- For app monitoring, log analysis, website search
+- Query
+	- AWS Athena
+		- Fully managed, serverless
+		- For standard, infrequent SQL queries
+		- Analyze data across different envs
+	- AWS Redshift
+		- Fully managed data warehouse
+		- For complex queries
+		- Find-grained query control
+		- Advanced features
+- 
