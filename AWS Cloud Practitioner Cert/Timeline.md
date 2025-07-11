@@ -218,6 +218,12 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- Databases
 - Time Studied - (6.5hrs)
 	- 10:30am - 5pm
+
+#### 7/11/25
+- Topics covered
+	- AI/ML and Data Analytics
+	- Security
+	- Monitoring, compliance and governance
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
