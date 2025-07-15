@@ -127,3 +127,6 @@
 - Dedicated private connection to VPC from on-prem through an AWS partner
 
 ## Transferring Data Offline
+#### Snowball Edge Storage Optimized Devices
+- Devices offer high performance NVMe storage
+- 
