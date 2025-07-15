@@ -67,3 +67,31 @@ Provides a way to continuously observe and analyze system activity, network traf
 - Helps to collect evidence and manage audit data
 	- Automated evidence collection
 	- Ensures audits are read-only
+
+## AWS Organizations
+- Manage/govern your env
+- Scale your env via programmatically creating new AWS accounts for resources/teams
+- 1 Primary account, all other accounts are "children" to it
+- Can group accounts into different groups (Organization Units)
+- Configure Service Control Policies (SCP) for groups to control max permissions for accounts in that group
+
+## Governance
+- A framework to manage IT goals with policies, processes, and structures to ensure adherence
+
+#### AWS Control Tower
+- Used to enforce and manage governance rules for security, ops, and compliance across your org
+- Uses preconfigured controls and blueprints to quickly set up multi-account envs
+- Automation with built-in governance
+- Dashboard to see accounts and control policy enforcement and detect non-compliant resources
+- Configure account templates that standardizes account provisioning
+
+#### AWS Service Catalog
+- Create, share, organize from curated catalog of AWS resources
+- Deploy baseline networking resources and security tools for new AWS accounts
+- Quickly find and deploy approved self-service resources
+- Blueprints for AWS resources
+
+#### AWS License Manager
+- Manage software licenses
+- Reduce risk of noncompliance with licenses
+- Automate distribution and activation of software entitlements across AWS accounts
