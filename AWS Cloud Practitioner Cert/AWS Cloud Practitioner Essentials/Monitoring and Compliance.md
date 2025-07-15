@@ -35,3 +35,35 @@ Provides a way to continuously observe and analyze system activity, network traf
 		- Analyzes normal patterns of API call volume and API error rates
 		- Generates insights events when those volumes and rates deviate
 		- Can be enabled on trails or event stores to detect weird behavior/activity
+
+## Compliance
+#### AWS Artifact
+- Provides no-cost, on-demand access to AWS security and compliance reports and select online agreements
+- 2 types:
+	- Agreements
+		- review, accept and manage agreements for an individual account and all counts in AWS Organizations
+		- Different types of agreements offered to address needs of customers who are subject to specific regulations. 
+	- Reports
+		- Provides compliance reports from third-arty auditors on AWS
+			- Auditors test and verify AWS as compliant with global, regional, industry standards
+
+#### AWS Compliance Portal
+- Contains resources to help you
+
+## Auditing Resources for Compliance
+#### AWS Config
+- Assess, audit and evaluate the configs of your AWS resources
+- Continuously track changes
+- Check configs against desired state, manage config changes, troubleshoot and remediate
+- Create custom rules
+- Generate compliance reports
+
+#### AWS Audit Manager
+- Assess your policies
+- Manage reviews
+- Build audit-ready reports
+- Provides prebuilt frameworks
+- Continually audits your AWS usage
+- Helps to collect evidence and manage audit data
+	- Automated evidence collection
+	- Ensures audits are read-only
