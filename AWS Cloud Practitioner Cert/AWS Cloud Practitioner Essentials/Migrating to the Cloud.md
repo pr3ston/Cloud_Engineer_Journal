@@ -111,15 +111,19 @@
 
 ## Transferring Data Online
 #### AWS DataSync
+- For bulk data transfers from other storage services to AWS and back 
 - Designed for automating and accelerating data transfer
 	- Running instances, encryption, network optimization
 - Bandwidth throttling, migration scheduling, task filtering, task reporting
 - Rapid data replication
 
 #### AWS Transfer Family
+- Smaller data transfers from a client to server and back
 - Manage and share data with simple, secure, scalable file transfers
 - Supports FTP, SFTP, FTPS, and others
 - Transfers into and out of AWS storage like S3 and EFS
 
 #### Direct Connect
 - Dedicated private connection to VPC from on-prem through an AWS partner
+
+## Transferring Data Offline
