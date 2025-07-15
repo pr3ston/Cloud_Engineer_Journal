@@ -95,3 +95,20 @@ Provides a way to continuously observe and analyze system activity, network traf
 - Manage software licenses
 - Reduce risk of noncompliance with licenses
 - Automate distribution and activation of software entitlements across AWS accounts
+
+## AWS Health Dashboard
+- View account-specific health info, and get health event updates
+- You can interact with it with the AWS Health API (Available w/ AWS Premium Support)
+- Give you timely/actionable guidance to remedy issues
+- Manage service health
+
+## Advisory
+#### AWS Trusted Advisor
+- Continuously evaluate AWS env using best practice checks across several categories
+- All AWS support plans access dozens of checks
+- Gives recommendations on what can be improved to optimize your env
+
+#### IAM Access Analyzer
+- Set, verify, refine permissions by analyzing external access and validating your policies match corporate security standards
+- Refine permissions, validate IAM policies -> meet least privilige
+- Automate IAM policy reviews
