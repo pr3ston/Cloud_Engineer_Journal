@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "00a5415fd349cc65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Migrating to the Cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Migrating to the Cloud"
+            }
+          },
+          {
             "id": "aa5e4c4849b5900d",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,10 +226,10 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "21f3acba00767709",
+  "active": "0ec63f3903caccc2",
   "lastOpenFiles": [
-    "Untitled.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Pricing and Support.md",
+    "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Migrating to the Cloud.md",
     "Pasted image 20250715104338.png",
     "Pasted image 20250715104331.png",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Security.md",
