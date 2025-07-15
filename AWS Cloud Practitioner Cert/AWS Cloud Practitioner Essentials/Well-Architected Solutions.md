@@ -45,3 +45,18 @@
 #### AWS IoT Core
 - Managed service
 - Securely connect physical devices with cloud apps
+
+## AWS Well-Architected Framework
+### Key Pillars
+#### Operational Excellence
+- Operations monitoring, automation, continuous improvement
+#### Security
+- Protect systems, data through best practices
+#### Reliability
+- Recovery planning, systems adaptability to meet changing demands
+#### Performance Efficiency
+- Using the right resources for the job and adjusting as needs evolve
+#### Cost Optimization
+- Control and reduce costs through smart provisioning and resource management
+#### Sustainability
+- Energy-efficient design and environmentally conscious resource usage
