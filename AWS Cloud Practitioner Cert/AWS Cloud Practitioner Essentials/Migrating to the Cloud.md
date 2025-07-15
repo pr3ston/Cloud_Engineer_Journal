@@ -120,3 +120,6 @@
 - Manage and share data with simple, secure, scalable file transfers
 - Supports FTP, SFTP, FTPS, and others
 - Transfers into and out of AWS storage like S3 and EFS
+
+#### Direct Connect
+- Dedicated private connection to VPC from on-prem through an AWS partner
