@@ -10,7 +10,7 @@
 	1. Use your strategy, plan, best practices to migrate and modernize
 	2. AWS Application Migration Service
 	3. AWS Database Migration Service
-	4. AWS DataSync, Transer Family, Snow Fmaily (Data Transfer)
+	4. AWS DataSync, Transfer Family, Snow Family (Data Transfer)
 
 ## AWS Cloud Adoption Framework (CAF)
 - Framework that brings AWS experience and best practices to companies that are preparing to migrate to cloud
@@ -46,6 +46,7 @@
 			- Use to define current operating procedures/indentify process changes
 			- IT operations managers
 
+![[Pasted image 20250717100317.png]]
 ## 7 R's of Migration
 #### Relocate
 - Changing the hosting location to the cloud

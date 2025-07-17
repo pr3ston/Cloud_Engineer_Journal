@@ -60,3 +60,10 @@
 - Control and reduce costs through smart provisioning and resource management
 #### Sustainability
 - Energy-efficient design and environmentally conscious resource usage
+
+#### AWS Well-Architected Tool
+- Free services that assess and improves workloads on the 5 key pillars
+- Workload reviews, milestone tracking, custom lenses for tailored evals and improvement plans
+- Supports team collab continuous progress tracking
+- Ideal for architects, engineers, compliance teams,
+
