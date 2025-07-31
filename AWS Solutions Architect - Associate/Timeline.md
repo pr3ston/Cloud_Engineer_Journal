@@ -1,0 +1,3 @@
+#### 7/31/25
+- Today marks the beginning of my SAA journey. I have just earned my Cloud Practitioner yesterday, but the grind doesn't stop in preparation for graduation from college. I have purchased the `Ultimate AWS Certified Solutions Architect Associate` by Stephane Maarek on Udemy. 
+- So far it is straight forward and am reviewing IAM. However, this time I am doing a deep dive into the service.
