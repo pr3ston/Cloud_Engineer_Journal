@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Migrating to the Cloud.md",
+                "file": "AWS Cloud Practitioner Cert/Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Migrating to the Cloud"
+              "title": "Timeline"
             }
           },
           {
@@ -228,8 +228,9 @@
   },
   "active": "00a5415fd349cc65",
   "lastOpenFiles": [
-    "().md",
+    "README.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Migrating to the Cloud.md",
+    "().md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Monitoring and Compliance.md",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials/Well-Architected Solutions.md",
     "AWS Cloud Practitioner Cert/Main Ideas.md",
@@ -252,7 +253,6 @@
     "Pasted image 20250630155618.png",
     "Pasted image 20250630155416.png",
     "AWS Cloud Practitioner Cert/AWS Cloud Practitioner Essentials",
-    "README.md",
     "Interview Prep.md",
     "AWS Cloud Practitioner Cert"
   ]

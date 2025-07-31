@@ -224,6 +224,9 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- AI/ML and Data Analytics
 	- Security
 	- Monitoring, compliance and governance
+
+#### 7/30/25
+- I have officially passed the AWS Cloud Practitioner Exam with a score of around 835! Honestly the only resources that I have used is the `Cloud Practitioner Essentials` course, the Youtube video found below, and a set of 6 practice tests that I found on Udemy. Those practice tests were harder than the actual exam but I liked that as it overprepared me for the actual exam.
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
@@ -231,13 +234,3 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 - AWS Cloud Engineer Full Course for Beginners | Tech With Soleyman via Youtube
 - What is Kubernetes | Kubernetes explained in 15 mins | TechWorld with Nana via Youtube
 - Kubernetes Explained in 15 Minutes | Hands On (2024 Edition) | Travis Media via Youtube
-
-
-
-
-<<<<<<< HEAD
-=======
-Go into as much detail as you can
-
-testing
->>>>>>> 85d8ae8 (chore: vault backup from DESKTOP-V2KNVVD at 2025-07-16T11:59)
