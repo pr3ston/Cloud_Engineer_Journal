@@ -226,7 +226,7 @@ This is a huge dump and Idk where you’re at experience-wise, but feel free to 
 	- Monitoring, compliance and governance
 
 #### 7/30/25
-- I have officially passed the AWS Cloud Practitioner Exam with a score of around 835! Honestly the only resources that I have used is the `Cloud Practitioner Essentials` course, the Youtube video found below, and a set of 6 practice tests that I found on Udemy. Those practice tests were harder than the actual exam but I liked that as it overprepared me for the actual exam.
+- I have officially passed the AWS Cloud Practitioner Exam with a score of around 835! Honestly the only resources that I have used is the `Cloud Practitioner Essentials` course, the Youtube video found below, and a set of 6 practice tests that I found on Udemy. Those practice tests were harder than the actual exam but I liked that as it overprepared me for the actual exam. Now onto the Solutions Architect Certification
 ## Resources
 - AWS Cloud Practitioner Essentials | AWS Training and Certification Website
 - AWS Cloud Quest: Cloud Practitioner | AWS Training and Certification Website
